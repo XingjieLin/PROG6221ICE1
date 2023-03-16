@@ -1,0 +1,15 @@
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\bin\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.exe
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\bin\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.deps.json
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\bin\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.runtimeconfig.json
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\bin\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.dll
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\bin\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.pdb
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.csproj.AssemblyReference.cache
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.AssemblyInfoInputs.cache
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.AssemblyInfo.cs
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.csproj.CoreCompileInputs.cache
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.dll
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\refint\XingjieLin_ST10071865_PROG6221ICE1.dll
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.pdb
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\XingjieLin_ST10071865_PROG6221ICE1.genruntimeconfig.cache
+C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Release\net6.0\ref\XingjieLin_ST10071865_PROG6221ICE1.dll
