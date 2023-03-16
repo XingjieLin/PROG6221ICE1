@@ -1,1 +1,6 @@
 # PROG6221ICE1
+
+Xingjie Lin
+ST10071865
+PROG6221 ICE 1
+Dr Mushininga
