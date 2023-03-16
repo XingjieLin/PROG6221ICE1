@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linxi\\OneDrive\\文档\\IIE MSA\\2023\\PROG6221\\ICE\\ICE1\\XingjieLin_ST10071865_PROG6221ICE1\\XingjieLin_ST10071865_PROG6221ICE1.csproj",
+      "projectUniqueName": "D:\\PROG6221ICE1\\XingjieLin_ST10071865_PROG6221ICE1.csproj",
       "projectName": "XingjieLin_ST10071865_PROG6221ICE1",
-      "projectPath": "C:\\Users\\linxi\\OneDrive\\文档\\IIE MSA\\2023\\PROG6221\\ICE\\ICE1\\XingjieLin_ST10071865_PROG6221ICE1\\XingjieLin_ST10071865_PROG6221ICE1.csproj",
+      "projectPath": "D:\\PROG6221ICE1\\XingjieLin_ST10071865_PROG6221ICE1.csproj",
       "packagesPath": "C:\\Users\\linxi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linxi\\OneDrive\\文档\\IIE MSA\\2023\\PROG6221\\ICE\\ICE1\\XingjieLin_ST10071865_PROG6221ICE1\\obj\\",
+      "outputPath": "D:\\PROG6221ICE1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VS2022SharedComponents\\NuGetPackages"

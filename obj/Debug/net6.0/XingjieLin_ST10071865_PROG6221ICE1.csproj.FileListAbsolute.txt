@@ -13,3 +13,18 @@ C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071
 C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.pdb
 C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.genruntimeconfig.cache
 C:\Users\linxi\OneDrive\文档\IIE MSA\2023\PROG6221\ICE\ICE1\XingjieLin_ST10071865_PROG6221ICE1\obj\Debug\net6.0\ref\XingjieLin_ST10071865_PROG6221ICE1.dll
+D:\PROG6221ICE1\bin\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.exe
+D:\PROG6221ICE1\bin\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.deps.json
+D:\PROG6221ICE1\bin\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.runtimeconfig.json
+D:\PROG6221ICE1\bin\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.dll
+D:\PROG6221ICE1\bin\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.pdb
+D:\PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.csproj.AssemblyReference.cache
+D:\PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.AssemblyInfoInputs.cache
+D:\PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.AssemblyInfo.cs
+D:\PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.csproj.CoreCompileInputs.cache
+D:\PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.dll
+D:\PROG6221ICE1\obj\Debug\net6.0\refint\XingjieLin_ST10071865_PROG6221ICE1.dll
+D:\PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.pdb
+D:\PROG6221ICE1\obj\Debug\net6.0\XingjieLin_ST10071865_PROG6221ICE1.genruntimeconfig.cache
+D:\PROG6221ICE1\obj\Debug\net6.0\ref\XingjieLin_ST10071865_PROG6221ICE1.dll
